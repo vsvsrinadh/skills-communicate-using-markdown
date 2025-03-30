@@ -1,3 +1,1 @@
-# HELLOO
-
-#######i added text in empty file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
